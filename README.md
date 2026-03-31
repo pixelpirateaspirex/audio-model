@@ -14,6 +14,6 @@ Rather than relying on conventional audio-based techniques, this approach treats
 
 ## Links
 - **Deployment Link**: [Streamlit](https://audio-model.streamlit.app)
-- **Colab Notebook Link**: [Colab](https://colab.research.google.com/drive/1dTcJhjbJCCeb8RPXn5zxddErfquAIEyK#scrollTo=pMpwnlO1dasK)
+- **Colab Notebook Link**: [Colab](  https://colab.research.google.com/drive/1Cr3JELKzHyKMQjw79tYdF-qFJ4qdek4a?usp=sharing)
 - **GitHub Repository**: [GitHub](https://github.com/pixelpirateaspirex/audio-model/main/README.md)
 - **Dataset Used**: [Kaggle](https://www.kaggle.com/datasets/abhay242/english-hindi-audio-spectrograms)
